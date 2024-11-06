@@ -17,7 +17,7 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 Contribution
 Innovate Events is an Inter Department Project (IDP) developed by Batch-07 during the 3rd year, 1st semester of B.Tech.
 
-##Contributors:
+### Contributors:
 221FA04406 - Teerdha Ganesh
 221FA04638 - B.Harshitha
 221FA04639 - Y.Lakshmi
